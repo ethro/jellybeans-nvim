@@ -46,7 +46,8 @@ local lush = require("lush")
 local hsl = lush.hsl
 
 local foreground = hsl("#e8e8d3")
-local background = hsl("#151515")
+-- local background = hsl("#151515")
+local background = hsl("#000000")
 local grey = hsl("#888888")
 local grey_one = hsl("#1c1c1c")
 local grey_two = hsl("#f0f0f0")
